@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway-service/api-gateway-service.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway-service/api-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern.iml" filepath="$PROJECT_DIR$/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" filepath="$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" filepath="$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/price-microservice/price-microservice.iml" filepath="$PROJECT_DIR$/api-gateway/price-microservice/price-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+    </modules>
+  </component>
+</project>

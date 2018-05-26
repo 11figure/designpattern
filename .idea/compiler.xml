@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway-service" />
+        <module name="image-microservice" />
+        <module name="intercepting-filter" />
+        <module name="price-microservice" />
+        <module name="strategy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="api-gateway" target="1.8" />
+      <module name="api-gateway-service" target="1.8" />
+      <module name="apigateway" target="1.8" />
+      <module name="designpattern" target="1.8" />
+      <module name="image-microservice" target="1.8" />
+      <module name="intercepting-filter" target="1.8" />
+      <module name="price-microservice" target="1.8" />
+      <module name="strategy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

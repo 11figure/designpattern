@@ -9,6 +9,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway-service" />
+        <module name="asyncmethodinvocation" />
         <module name="image-microservice" />
         <module name="intercepting-filter" />
         <module name="price-microservice" />
@@ -19,6 +20,7 @@
       <module name="api-gateway" target="1.8" />
       <module name="api-gateway-service" target="1.8" />
       <module name="apigateway" target="1.8" />
+      <module name="asyncmethodinvocation" target="1.8" />
       <module name="designpattern" target="1.8" />
       <module name="image-microservice" target="1.8" />
       <module name="intercepting-filter" target="1.8" />

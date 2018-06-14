@@ -59,6 +59,7 @@
     <module>api-gateway</module>
     <module>strategy</module>
     <module>intercepting-filter</module>
+    <module>asyncmethodinvocation</module>
   </modules>
 
   <repositories>

@@ -60,6 +60,18 @@
     <module>strategy</module>
     <module>intercepting-filter</module>
     <module>asyncmethodinvocation</module>
+    <module>strategy-enum</module>
+    <module>balking</module>
+    <module>guarded-suspension</module>
+    <module>bridge</module>
+    <module>chain</module>
+    <module>prototype</module>
+    <module>adapter</module>
+    <module>composite</module>
+    <module>template</module>
+    <module>iterator</module>
+    <module>callback</module>
+    <module>dependency-injection</module>
   </modules>
 
   <repositories>

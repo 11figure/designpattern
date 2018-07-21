@@ -8,24 +8,50 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="adapter" />
         <module name="api-gateway-service" />
+        <module name="async-method-invocation" />
         <module name="asyncmethodinvocation" />
+        <module name="balking" />
+        <module name="bridge" />
+        <module name="callback" />
+        <module name="chain" />
+        <module name="composite" />
+        <module name="dependency-injection" />
+        <module name="guarded-suspension" />
         <module name="image-microservice" />
         <module name="intercepting-filter" />
+        <module name="iterator" />
         <module name="price-microservice" />
+        <module name="prototype" />
         <module name="strategy" />
+        <module name="strategy-enum" />
+        <module name="template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="adapter" target="1.8" />
       <module name="api-gateway" target="1.8" />
       <module name="api-gateway-service" target="1.8" />
       <module name="apigateway" target="1.8" />
+      <module name="async-method-invocation" target="1.8" />
       <module name="asyncmethodinvocation" target="1.8" />
+      <module name="balking" target="1.8" />
+      <module name="bridge" target="1.8" />
+      <module name="callback" target="1.8" />
+      <module name="chain" target="1.8" />
+      <module name="composite" target="1.8" />
+      <module name="dependency-injection" target="1.8" />
       <module name="designpattern" target="1.8" />
+      <module name="guarded-suspension" target="1.8" />
       <module name="image-microservice" target="1.8" />
       <module name="intercepting-filter" target="1.8" />
+      <module name="iterator" target="1.8" />
       <module name="price-microservice" target="1.8" />
+      <module name="prototype" target="1.8" />
       <module name="strategy" target="1.8" />
+      <module name="strategy-enum" target="1.8" />
+      <module name="template" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

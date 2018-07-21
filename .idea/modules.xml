@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway-service/api-gateway-service.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway-service/api-gateway-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/asyncmethodinvocation/async-method-invocation.iml" filepath="$PROJECT_DIR$/asyncmethodinvocation/async-method-invocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/balking/balking.iml" filepath="$PROJECT_DIR$/balking/balking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridge/bridge.iml" filepath="$PROJECT_DIR$/bridge/bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain/chain.iml" filepath="$PROJECT_DIR$/chain/chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency-injection/dependency-injection.iml" filepath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern.iml" filepath="$PROJECT_DIR$/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guarded-suspension/guarded-suspension.iml" filepath="$PROJECT_DIR$/guarded-suspension/guarded-suspension.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" filepath="$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" filepath="$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/price-microservice/price-microservice.iml" filepath="$PROJECT_DIR$/api-gateway/price-microservice/price-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-enum/strategy-enum.iml" filepath="$PROJECT_DIR$/strategy-enum/strategy-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template/template.iml" filepath="$PROJECT_DIR$/template/template.iml" />
     </modules>
   </component>
 </project>

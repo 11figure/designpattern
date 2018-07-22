@@ -13,10 +13,13 @@ public class TreasureChest {
 
     public TreasureChest() {
         items = new ArrayList<>();
-        items.add(new Item(ItemType.Anay, "any"));
+        items.add(new Item(ItemType.Any, "any"));
         items.add(new Item(ItemType.WEAPON, "weapon"));
         items.add(new Item(ItemType.RING, "ring"));
-        items.add(new Item(ItemType.POTION, "potion"));
+        items.add(new Item(ItemType.POTION, "potion of rust"));
+        items.add(new Item(ItemType.POTION, "potion of healing"));
+        items.add(new Item(ItemType.POTION, "portion of shadow"));
+        items.add(new Item(ItemType.POTION, "potion of blood"));
     }
 
     ItemIterator iterate(ItemType itemType) {

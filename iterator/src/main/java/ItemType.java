@@ -5,5 +5,5 @@
  * @Modified By:
  */
 public enum ItemType {
-    Anay,WEAPON,RING,POTION
+    Any,WEAPON,RING,POTION
 }

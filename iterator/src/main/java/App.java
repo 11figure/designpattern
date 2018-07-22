@@ -7,7 +7,9 @@
 public class App {
 
     public static void main(String[] args) {
-        TreasureChest treasureChest = new TreasureChestItemIteratorImpl();
-
+        ItemIterator potionIterator = new TreasureChest().iterate(ItemType.POTION);
+        while (potionIterator.hasNext()) {
+            System.out.println(potionIterator.next().toString());
+        }
     }
 }

@@ -8,11 +8,21 @@
       <module fileurl="file://$PROJECT_DIR$/asyncmethodinvocation/async-method-invocation.iml" filepath="$PROJECT_DIR$/asyncmethodinvocation/async-method-invocation.iml" />
       <module fileurl="file://$PROJECT_DIR$/balking/balking.iml" filepath="$PROJECT_DIR$/balking/balking.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridge/bridge.iml" filepath="$PROJECT_DIR$/bridge/bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bussinessdelegate/bussinessdelegate.iml" filepath="$PROJECT_DIR$/bussinessdelegate/bussinessdelegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
       <module fileurl="file://$PROJECT_DIR$/chain/chain.iml" filepath="$PROJECT_DIR$/chain/chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command/command.iml" filepath="$PROJECT_DIR$/command/command.iml" />
       <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converter/converter.iml" filepath="$PROJECT_DIR$/converter/converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqrs/cqrs.iml" filepath="$PROJECT_DIR$/cqrs/cqrs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus/data-bus.iml" filepath="$PROJECT_DIR$/data-bus/data-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delegation/delegation.iml" filepath="$PROJECT_DIR$/delegation/delegation.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependency-injection/dependency-injection.iml" filepath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern.iml" filepath="$PROJECT_DIR$/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dirty-flag/dirty-flag.iml" filepath="$PROJECT_DIR$/dirty-flag/dirty-flag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double-dispatch/double-dispatch.iml" filepath="$PROJECT_DIR$/double-dispatch/double-dispatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/guarded-suspension/guarded-suspension.iml" filepath="$PROJECT_DIR$/guarded-suspension/guarded-suspension.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" filepath="$PROJECT_DIR$/api-gateway/image-microservice/image-microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" filepath="$PROJECT_DIR$/intercepting-filter/intercepting-filter.iml" />

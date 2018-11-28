@@ -14,10 +14,19 @@
         <module name="asyncmethodinvocation" />
         <module name="balking" />
         <module name="bridge" />
+        <module name="bussinessdelegate" />
+        <module name="cache" />
         <module name="callback" />
         <module name="chain" />
+        <module name="command" />
         <module name="composite" />
+        <module name="converter" />
+        <module name="data-bus" />
+        <module name="decorator" />
+        <module name="delegation" />
         <module name="dependency-injection" />
+        <module name="dirty-flag" />
+        <module name="double-dispatch" />
         <module name="guarded-suspension" />
         <module name="image-microservice" />
         <module name="intercepting-filter" />
@@ -38,11 +47,21 @@
       <module name="asyncmethodinvocation" target="1.8" />
       <module name="balking" target="1.8" />
       <module name="bridge" target="1.8" />
+      <module name="bussinessdelegate" target="1.8" />
+      <module name="cache" target="1.8" />
       <module name="callback" target="1.8" />
       <module name="chain" target="1.8" />
+      <module name="command" target="1.8" />
       <module name="composite" target="1.8" />
+      <module name="converter" target="1.8" />
+      <module name="cqrs" target="1.8" />
+      <module name="data-bus" target="1.8" />
+      <module name="decorator" target="1.8" />
+      <module name="delegation" target="1.8" />
       <module name="dependency-injection" target="1.8" />
       <module name="designpattern" target="1.8" />
+      <module name="dirty-flag" target="1.8" />
+      <module name="double-dispatch" target="1.8" />
       <module name="guarded-suspension" target="1.8" />
       <module name="image-microservice" target="1.8" />
       <module name="intercepting-filter" target="1.8" />

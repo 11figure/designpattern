@@ -10,10 +10,20 @@
     <file url="file://$PROJECT_DIR$/asyncmethodinvocation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/balking" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bussinessdelegate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/callback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/command" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/composite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/converter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cqrs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/delegation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dependency-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dirty-flag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/double-dispatch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/guarded-suspension" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/intercepting-filter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iterator" charset="UTF-8" />
